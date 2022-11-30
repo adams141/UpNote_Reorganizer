@@ -23,5 +23,5 @@ for file in os.listdir(os.getcwd()):
                     os.makedirs(dest)
                     
                 shutil.copy(file, dest)
-        
-
+        else:
+            shutil.copy(file, baseDir)
