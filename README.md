@@ -10,6 +10,6 @@ uses [python-frontmatter](https://github.com/eyeseast/python-frontmatter)
     pip install python-frontmatter
 
 ### Usage
-- From upnote, export all notes to a folder.  
+- From upnote, export all notes as markdown to a folder. (options -> general -> Export All Notes)  check the option to include extra info
 - Put UpNote_Reorganizer.py in that folder  
 - Run `python UpNote_Reorganizer.py`
