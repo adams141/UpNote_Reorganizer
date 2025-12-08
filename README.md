@@ -19,4 +19,4 @@ uses [python-frontmatter](https://github.com/eyeseast/python-frontmatter)
 ## Powershell Version
 - From upnote, export all notes as markdown to a folder. (options -> general -> Export All Notes)  check the option to include extra info
 - Put UpNote_Reorganizer.ps1 in that folder  
-- Run `./pNote-reorganizer.ps1 <path to your export>`
+- Run `./upnote-reorganizer.ps1 <path to your export>`
