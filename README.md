@@ -16,6 +16,8 @@ uses [python-frontmatter](https://github.com/eyeseast/python-frontmatter)
 - Put UpNote_Reorganizer.py in that folder  
 - Run `python UpNote_Reorganizer.py`
 
+---
+
 ## Powershell Version
 - From upnote, export all notes as markdown to a folder. (options -> general -> Export All Notes)  check the option to include extra info
 - Put UpNote_Reorganizer.ps1 in that folder  
